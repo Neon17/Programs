@@ -1,0 +1,7 @@
+#boxes {
+    background-color: bisque;
+}
+#boxes .boxitem {
+    width: 100px;
+    height: 12px;
+}

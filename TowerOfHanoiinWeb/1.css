@@ -1,0 +1,30 @@
+.BodyAlign {
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 96vh;
+    text-align: center;
+    display: flex;
+    background-color: antiquewhite;
+}
+.BodyAlign .AlignBodyAlign {
+    margin-left: 5%;
+    width: 90%;
+    height: 95%;
+    overflow-y: scroll;
+    align-self: center;
+    background-color:aquamarine;
+}
+.BodyAlign .AlignBodyAlign .heading {
+    margin-top: 5%;
+    background-color: honeydew;
+}
+.BodyAlign .AlignBodyAlign .formOutline {
+    margin-top: 5%;
+}
+.BodyAlign .AlignBodyAlign .heading .headingtitle {
+    font-size: larger;
+}
+.BodyAlign .AlignBodyAlign .formOutline .formCaption {
+    font-size: large;
+    margin-bottom: 2%;
+}
