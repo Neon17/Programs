@@ -1,5 +1,5 @@
-I am trying to remember all the things back.
+I already have created Tower of Hanoi game solution up to infinite chips in C but I wanted it in web
 
-Due to continous decrement of self-trust, I even have no belief in Web by doing this much.
+So, with the reference of what I made in C, I am making it in web
 
-So, I restarted again. I went to XDezo Company so that I can start again with exponentiation.
+Hope I can make it
